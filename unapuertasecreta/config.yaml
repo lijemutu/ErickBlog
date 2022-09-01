@@ -2,7 +2,7 @@ baseURL: 'http://unapuertasecreta.me/'
 languageCode: 'en-us'
 title: 'Una puerta secreta - blog'
 theme: 'PaperMod'
-googleAnalytics: GTM-WH4QFWH
+googleAnalytics: G-3WS12KKPZ7
 params:
     homeInfoParams:
         Title: Date una vuelta por este lugar
