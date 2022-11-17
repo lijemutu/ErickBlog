@@ -1,8 +1,16 @@
 baseURL: 'https://unapuertasecreta.me/'
-languageCode: 'en-us'
+languageCode: 'es-us'
 title: 'Una puerta secreta - blog'
 theme: 'PaperMod'
 googleAnalytics: G-9CT9CGJ7GW
+defaultContentLanguage: es
+languages:
+  es:
+    title: 'Una puerta secreta - blog'
+    weight: 1
+  en:
+    title: 'A secret door - blog'
+    weight: 2
 params:
     title: Una puerta secreta - blog
     description: "Este es un blog personal con posts acerca de programación, ciencia y analisis a los productos que utilizo en mi día a día. Soy Ingeniero en Software con una licenciatura en física y laboro en la industría del desarrollo de software utilizando lenguajes como C#, python entre otros lenguajes."
