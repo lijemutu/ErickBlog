@@ -4,6 +4,7 @@ title: 'Una puerta secreta - blog'
 theme: 'PaperMod'
 googleAnalytics: G-9CT9CGJ7GW
 defaultContentLanguage: es
+enableRobotsTXT: true
 languages:
   es:
     title: 'Una puerta secreta - blog'
@@ -13,7 +14,7 @@ languages:
     weight: 2
 params:
     title: Una puerta secreta - blog
-    description: "Este es un blog personal con posts acerca de programación, ciencia y analisis a los productos que utilizo en mi día a día. Soy Ingeniero en Software con una licenciatura en física y laboro en la industría del desarrollo de software utilizando lenguajes como C#, python entre otros lenguajes."
+    description: "Este es un blog personal donde escribo acerca de mis proyectos personales que más me apasionan. Ciencia, programación y tecnología lo puedes encontrar aquí."
     keywords: [Desarrollo de software,Software development, Python, 'C#',aws,railway,physics,física,apps,bootcamp,sueldo,negocio,programación,programming,coding,code,development,dotnet,git,github,atlassian,azure,gcp,portfolio,blog,personal,mexico,spanish,espanol ]
     author: Erick López Reynoso
     homeInfoParams:
